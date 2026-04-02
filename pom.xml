@@ -36,12 +36,7 @@
       <scope>provided</scope>
     </dependency>
   </dependencies>
-  <distributionManagement>
-    <repository>
-        <id>nexus</id>
-        <url>http://13.217.221.46:8081/repository/maven_releases/</url>
-    </repository>
-</distributionManagement>
+  
 
   <build>
     <plugins>
